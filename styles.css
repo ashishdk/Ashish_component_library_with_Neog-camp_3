@@ -6,7 +6,8 @@ body{
 :root{
     --primary-color: #4ADE80;
 }
-
+hr {margin: 1.5rem 0rem;
+}
     /**Container**/
 .container {
 padding:0rem 1rem;
@@ -29,4 +30,11 @@ padding:0rem 1rem;
     color: var(--primary-color);
     border: 2px solid var(--primary-color);
     border-radius: 0.5rem;
+}
+.list-nonbullet{
+    list-style: none;
+    }
+.list-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
 }
