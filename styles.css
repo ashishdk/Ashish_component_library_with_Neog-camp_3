@@ -3,6 +3,7 @@
 
 body {
     font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
 }
 
 :root {
@@ -92,6 +93,7 @@ hr {
     font-size: 1.5rem;
     color: var(--secondary-color);
     padding-top: 1rem;
+    text-align: center;
 }
 
 .hero .hero-heading .hero-span {
