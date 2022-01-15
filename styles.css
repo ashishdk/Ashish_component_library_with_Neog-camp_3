@@ -81,6 +81,7 @@ hr {
 
 .hero {
     padding: 1rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img {
@@ -119,6 +120,11 @@ hr {
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
+}
+
 .footer .link{
     color: white;
 }
